@@ -17,3 +17,5 @@ Here's a simple overview and what will be covered in this readme:
 **Second:** For some vehicles, it is important to select which grade of fuel it recommends or in some extreme cases requires. This data will help the syste solve for your mileage as well as operation costs.
 
 **Lastly (optional):** Input the maintaince data that is specific for this vehicle. This can be found in your owners manual's *index* section. If you have a second-hand vehicle and lack the owners manual, try contacting a dealer or the manufacturer directly to obtain this information.
+
+For more information on this project, please visit my [profile](https://github.com/Evan-LeNoir).
