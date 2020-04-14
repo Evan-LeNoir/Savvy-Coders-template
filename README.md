@@ -20,4 +20,4 @@ Here's a simple overview and what will be covered in this readme:
 
 ---
 
-For more information on this project, please visit my [profile](https://github.com/Evan-LeNoir).
+For more information on this project, please visit my [profile](https://github.com/Evan-LeNoir "_blank").
