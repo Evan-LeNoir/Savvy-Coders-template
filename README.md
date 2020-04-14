@@ -18,4 +18,6 @@ Here's a simple overview and what will be covered in this readme:
 
 **Lastly (optional):** Input the maintaince data that is specific for this vehicle. This can be found in your owners manual's *index* section. If you have a second-hand vehicle and lack the owners manual, try contacting a dealer or the manufacturer directly to obtain this information.
 
+---
+
 For more information on this project, please visit my [profile](https://github.com/Evan-LeNoir).
